@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "7GO Coffee & Detak 7GO Roastery | Premium Coffee Experience",
+  title: "7GO Coffee & Roastery | Premium Coffee Experience",
   description:
     "Discover 7GO Coffee for freshly brewed specialty drinks and Detak 7GO Roastery for premium hand-roasted coffee beans. Crafted with passion, brewed with precision.",
   keywords:
